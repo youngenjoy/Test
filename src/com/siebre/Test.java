@@ -7,6 +7,7 @@ public class Test
 		System.out.println("young");
 		System.out.println("lin");
 		System.out.println("zhang");
+		System.out.println("hah");
 	}
 
 }
